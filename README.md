@@ -4,7 +4,7 @@ Using Python's Pygame module, this program's purpose was to be able to program a
 
 The game I designed was a simple "Snake" game. Use the arrow keys to move, collect as many purple "fruits" to grow bigger and gain more points. If you end up running into yourself, you lose! In this iteration of the game, the screen wraps so the player does not die if they run into the edge.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gX90xlMeGiM)
 
 # Development Environment
 
