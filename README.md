@@ -1,30 +1,24 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Using Python's Pygame module, this program's purpose was to be able to program a game that displayed graphics, used user control, and had moveable objects. 
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+The game I designed was a simple "Snake" game. Use the arrow keys to move, collect as many purple "fruits" to grow bigger and gain more points. If you end up running into yourself, you lose! In this iteration of the game, the screen wraps so the player does not die if they run into the edge.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Python 3.10.4 64 Bit
+* Pygame 2.1.2
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Pygame documentation](https://www.pygame.org/docs/)
 * [Geeks for Geeks](geeksforgeeks.org)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Implement a Score System
+* Implement a Menu
+* Implement Difficulty
+* Implement random walls
